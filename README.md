@@ -1,31 +1,60 @@
-# Awesome Free Dev Tools 🧰
+# Awesome Free Developer Tools 🧰
 
-A curated list of genuinely free, no-signup developer and designer tools that run in your browser.
+> Curated list of genuinely free, no-signup developer and designer tools that run in your browser.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+## Why This List?
+
+Most "free" tools require signup, have usage limits, or sell your data. These don't. Every tool below runs entirely in your browser — your data never leaves your device. Premium tiers are one-time payments, not subscriptions.
+
+---
+
+## 📋 Contents
+
+- [Developer Tools](#developer-tools)
+- [Designer Tools](#designer-tools)
+- [Freelancer Tools](#freelancer-tools)
+- [How to Contribute](#contribute)
+
+---
 
 ## Developer Tools
 
-- [QuickDev Tools](https://rumblingb.github.io/quickdev-tools/) — JSON formatter/validator, JWT decoder, Base64 encoder/decoder, UUID generator. All in one tab. **Premium $9** for history + PDF export.
-- [JSON Formatter](https://rumblingb.github.io/jacks-toolbox/json-formatter.html) — Free online JSON beautifier and validator
-- [JWT Decoder](https://rumblingb.github.io/quickdev-tools/) — Decode JWT tokens to see header and payload
+### QuickDev Tools
+- **URL:** [rumblingb.github.io/quickdev-tools](https://rumblingb.github.io/quickdev-tools)
+- **Features:** JSON formatter/validator, JWT decoder, Base64 encoder/decoder, UUID generator
+- **Premium:** $9 one-time (history, PDF export, ad-free)
+- **Tech:** Vanilla HTML/CSS/JS, GitHub Pages, Stripe Payment Links
 
 ## Designer Tools
 
-- [ColorCraft Studio](https://rumblingb.github.io/colorcraft-studio/) — Color palette generator, CSS gradient creator, WCAG contrast checker, Tailwind converter. **Premium $12** for saving + exporting.
-- [Color Palette Generator](https://rumblingb.github.io/colorcraft-studio/) — Generate harmonious color schemes
+### ColorCraft Studio
+- **URL:** [rumblingb.github.io/colorcraft-studio](https://rumblingb.github.io/colorcraft-studio)
+- **Features:** Color palette generator, CSS gradient creator, WCAG contrast checker, Tailwind converter
+- **Premium:** $12 one-time (save palettes, export CSS/Tailwind config)
+- **Tech:** Vanilla HTML/CSS/JS, GitHub Pages, Stripe Payment Links
 
 ## Freelancer Tools
 
-- [InvoiceFast](https://rumblingb.github.io/invoicefast/) — Professional invoice generator with live preview, auto tax calculation, PDF download. **Premium $15** for unlimited + branding.
-- [Invoice Generator](https://rumblingb.github.io/jacks-toolbox/invoice-generator.html) — Free invoice creator, no signup
+### InvoiceFast
+- **URL:** [rumblingb.github.io/invoicefast](https://rumblingb.github.io/invoicefast)
+- **Features:** Professional invoice generator, live preview, auto tax calculation, PDF download
+- **Premium:** $15 one-time (unlimited invoices, custom branding, CSV export)
+- **Tech:** Vanilla HTML/CSS/JS, GitHub Pages, Stripe Payment Links
 
-## Why These Tools?
+---
 
-- No signup required — use instantly
-- Runs in your browser — your data never leaves your device
-- Free tier is genuinely useful — not a crippled demo
-- Premium upgrades are one-time payments, not subscriptions
-- Open source — built and deployed via GitHub Pages
+## How to Contribute
 
-## Contribute
+1. Found a great free tool? [Open an issue](https://github.com/Rumblingb/awesome-free-dev-tools/issues)
+2. Built one yourself? Submit a PR
+3. Star this repo to help others discover these tools
 
-Found another great free tool? Open a PR!
+## Built By
+
+[Jack @ AgentPay Labs](https://github.com/Rumblingb) — Building free tools that respect your privacy.
+
+## License
+
+[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
